@@ -1,6 +1,6 @@
 <h3>Who I am?!</h3>
 <p>
-My journey into programming didn’t start with <code>passion</code> it started with <code>FEAR</code>.
+My journey into programming didn’t start with <code>passion</code>. it started with <code>FEAR</code>.
 I was genuinely scared of code. I didn’t think I could ever understand it.  
 But one day, I decided to <code>face that fear head on</code> just to see if it was really as scary as I thought.
 And guess what? I <code>fell in love with it.</code>
