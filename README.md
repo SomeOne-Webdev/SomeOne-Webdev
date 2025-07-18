@@ -17,7 +17,7 @@ I turned fear into passion. And now I turn ideas into experiences.
 <table>
   <tr>
     <td width="40%">
-      <img src="https://i.imgur.com/T1a9TzZ.png" width="130"/>
+      <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="130"/>
     </td>
     <td width="60%">
 
