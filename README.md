@@ -8,7 +8,7 @@ Before stepping into code, I used to work in **graphic design and animation**. T
 
 "What if I could mix my love for visual design with the logic of programming?"
 
-That’s how I found my way into **frontend development** — a space where I can blend **creativity**, **motion**, and **code** into beautiful and engaging web experiences.
+That’s how I found my way into ** <code>frontend development</code>** — a space where I can blend **creativity**, **motion**, and **code** into beautiful and engaging web experiences.
 Today, with 5+ years of experience, I specialize in building interactive UIs, adding thoughtful animations, and always learning something new along the way.
 I turned fear into passion. And now I turn ideas into experiences.
 </p>
