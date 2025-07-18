@@ -16,10 +16,10 @@ I turned fear into passion. And now I turn ideas into experiences.
 
 <table>
   <tr>
-    <td>
+    <td width="40%">
       <img src="https://i.imgur.com/T1a9TzZ.png" width="130"/>
     </td>
-    <td>
+    <td width="60%">
 
 <h3>Who am I?</h3>
 
