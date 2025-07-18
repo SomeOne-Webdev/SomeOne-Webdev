@@ -1,7 +1,5 @@
-<h3>Hi there</h3>
+<h3> 👋 Hi there! I'm Dorian</h3>
 <p>
-  👋 Hi there! I'm [Your Name]
-
 I'm a **Frontend Developer** with 5 years of experience in building modern, clean, and responsive web interfaces.
 
 🎯 I specialize in crafting user-friendly and scalable UIs — with a strong attention to detail and performance.
