@@ -1,4 +1,4 @@
-<img align="left" alt="who I am" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczU1c205dXpqeGRiOHhodmZuZGR6anFidWs4Z3BjNGp4Znl2cXpzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="GIF" width="520" height="520
+<img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczU1c205dXpqeGRiOHhodmZuZGR6anFidWs4Z3BjNGp4Znl2cXpzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="GIF" width="520" height="520
 
 <h3 align="right">Who I am?!</h3>
 <p align="right">
