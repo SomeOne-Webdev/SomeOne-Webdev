@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczU1c205dXpqeGRiOHhodmZuZGR6anFidWs4Z3BjNGp4Znl2cXpzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="GIF" width="520" height="520 align="left" />
+<img align="left" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="GIF" width="520" height="520 />
 
 <h3 align="right">Who I am?!</h3>
 <p align="right">
