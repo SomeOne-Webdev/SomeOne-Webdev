@@ -1,4 +1,4 @@
-<img src="assets/banner 13.gif" width=1280 height=400>
+<img src="assets/banner 13.gif" width=1280 height=300>
 
 
 <img src="assets/main 1.gif" width=330 align="left">
