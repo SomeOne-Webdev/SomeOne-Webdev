@@ -28,11 +28,11 @@ I turned fear into passion. And now I turn ideas into experiences.
 <!-- minha descrição simples -->
  <h3 align="center">
   <img src="assets/user-black.svg" width=15>
-  Behind the Code
+   Behind the Code 
   <img src="assets/user-black.svg" width=15>
  </h3>
 
-⬛ I enjoy being surrounded by people more experienced than me — they challenge me to grow.  
+⬛ I enjoy being surrounded by people more experienced than me they challenge me to grow.  
 ⬜ Currently working on projects with Next.js.  
 ⬛ Always happy to help if you're learning Front-End development.  
 ⬜ I'm interested in any ambitious project that makes me think.  
@@ -61,7 +61,7 @@ I turned fear into passion. And now I turn ideas into experiences.
 <!-- Titutlo -->
 <h3 align="center">
 <img src="assets/github-black.svg" width=19>
-Github Status
+  Github Status  
 <img src="assets/github-black.svg" width=19>
 </h3>
 <br>
