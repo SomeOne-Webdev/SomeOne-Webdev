@@ -28,15 +28,15 @@ I turned fear into passion. And now I turn ideas into experiences.
 <!-- minha descrição simples -->
  <h3 align="center">
   <img src="./assets/icons/user-white.svg" width=15>
-  Um Pouco Mais Sobre Mim 
+  ### Behind the Code
   <img src="./assets/icons/user-black.svg" width=15>
  </h3>
 
- ⬛ Gosto de estar cercado por pessoas mais experientes que me desafiem a crescer.</br>
- ⬜ Atualmente trabalhando em projetos com React.</br>
- ⬛ Se quiser aprender um pouco sobre Front-end, sempre estarei disposto a ajudar.</br>
- ⬜ Tenho interesse em qualquer projeto grande que me faça pensar.</br>
- ⬛ Amante do Minimalismo.
+⬛ I enjoy being surrounded by people more experienced than me — they challenge me to grow.  
+⬜ Currently working on projects with Next.js.  
+⬛ Always happy to help if you're learning Front-End development.  
+⬜ I'm interested in any ambitious project that makes me think.  
+⬛ A proud lover of minimalism — in code and design.  
  ㅤ
   <!-- minhas redes e spotify --> 
   <div align="center"> 
