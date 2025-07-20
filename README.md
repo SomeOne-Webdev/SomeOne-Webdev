@@ -27,9 +27,9 @@ I turned fear into passion. And now I turn ideas into experiences.
 
 <!-- minha descrição simples -->
  <h3 align="center">
-  <img src="./assets/icons/user-white.svg" width=15>
-  ### Behind the Code
-  <img src="./assets/icons/user-black.svg" width=15>
+  <img src="assets/user-black.svg" width=15>
+  Behind the Code
+  <img src="assets/user-black.svg" width=15>
  </h3>
 
 ⬛ I enjoy being surrounded by people more experienced than me — they challenge me to grow.  
@@ -60,9 +60,9 @@ I turned fear into passion. And now I turn ideas into experiences.
 <!-- github status-->
 <!-- Titutlo -->
 <h3 align="center">
-<img src="./assets/icons/github-white.svg" width=18>
- Github Status 
-<img src="./assets/icons/github-black.svg" width=22>
+<img src="assets/github-black.svg" width=19>
+Github Status
+<img src="assets/github-black.svg" width=19>
 </h3>
 <br>
 
@@ -77,9 +77,9 @@ I turned fear into passion. And now I turn ideas into experiences.
 <!-- Minhas Stacks -->
 <!-- Titulo -->
 <h3 align="center">
- <img src="./assets/icons/stack-white.svg" width=17>
+ <img src="assets/stack-black.svg" width=15>
  Minhas Stacks 
- <img src="./assets/icons/stack-black.svg" width=20>
+ <img src="assets/stack-black.svg" width=15>
 </h3>
 
 <br/>
