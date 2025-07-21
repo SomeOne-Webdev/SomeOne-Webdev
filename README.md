@@ -37,32 +37,36 @@ I turned fear into passion. And now I turn ideas into experiences.
 ⬜ I'm interested in any ambitious project that makes me think.  
 ⬛ A proud lover of minimalism — in code and design.  
 
-
 ---
- ㅤ
-  <!-- minhas redes e spotify --> 
-  <div align="center"> 
+<!-- minhas redes e spotify --> 
 
-  <a href="https://mail.google.com/mail/?view=cm&to=glauedson18s@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  <h3>Connect with me</h3>
+  <div> 
+
+  <a href="https://mail.google.com/mail/?view=cm&to=dorian1999kade@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width=39 />
   </a>
-  <a href="https://www.linkedin.com/in/glauedson-carlos-89875b258/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a> 
-  <a href="https://open.spotify.com/playlist/3A6d9mNanQ1o9FnjfVvPXl?si=MgjO7Rf3QLKVv5Omr5lXjQ&pi=_cyK3rgQSSicL" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-spotify-11-432546.png?f=webp" width="48px" />
+  <a href="https://t.me/SomeOne_Webdev" target="_blank">
+    <img src="assets/telegram-1.svg" width=40 />
   </a>
 
   </div>
 
 </div>
 
-<!-- conquistas 
-<h3 align="center">Minhas Conquistas</h3>
-<p align="center">
-  <img src="https://metrics.lecoq.io/Glauedson?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&plugin_achievements=1&plugin_achievements.display=compact&config.timezone=America%2FSao_Paulo" />
+---
+<!-- skills --> 
+<h3>Some of my skills</h3>
+<p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,sass,regex" /></br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,git,vite,prisma,ts,vitest" /></br>
+    <img src="https://skillicons.dev/icons?i=redux,postman," />
+    <img src="assets/strapi-2.svg" width=35 />
+    <img src="assets/gsap-greensock.svg" width=47 />
+    <img src="assets/framer-motion.svg" width=47 />
 </p>
--->
+
+
 
 <!-- ending-->
 
