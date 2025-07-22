@@ -31,30 +31,16 @@ I turned fear into passion. And now I turn ideas into experiences.
   <img src="assets/user-black.svg" width=15>
  </h3>
 
-⬛ I enjoy being surrounded by people more experienced than me they challenge me to grow.  
+⬛ I enjoy being surrounded by people more experienced than me — they challenge me to grow.  
 ⬜ Currently working on projects with Next.js.  
 ⬛ Always happy to help if you're learning Front-End development.  
 ⬜ I'm interested in any ambitious project that makes me think.  
 ⬛ A proud lover of minimalism — in code and design.  
+⬜ Passionate about smooth micro-interactions and subtle UI animations.  
+⬛ I believe open-source is one of the best ways to learn and connect with amazing developers.
 
 ---
-<!-- minhas redes e spotify --> 
 
-  <h3>Connect with me</h3>
-  <div> 
-
-  <a href="https://mail.google.com/mail/?view=cm&to=dorian1999kade@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width=39 />
-  </a>
-  <a href="https://t.me/SomeOne_Webdev" target="_blank">
-    <img src="assets/telegram-1.svg" width=40 />
-  </a>
-
-  </div>
-
-</div>
-
----
 <!-- skills --> 
 <h3>Some of my skills</h3>
 <p>
