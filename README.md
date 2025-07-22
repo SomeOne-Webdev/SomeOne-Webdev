@@ -59,11 +59,11 @@ I turned fear into passion. And now I turn ideas into experiences.
 <h3>Some of my skills</h3>
 <p>
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,sass,regex" /></br>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,git,vite,prisma,ts,vitest" /></br>
-    <img src="https://skillicons.dev/icons?i=redux,postman," />
-    <img src="assets/strapi-2.svg" width=35 />
-    <img src="assets/gsap-greensock.svg" width=47 />
-    <img src="assets/framer-motion.svg" width=47 />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,git,vite,prisma,ts,babel" /></br>
+    <img src="https://skillicons.dev/icons?i=redux,postman,vitest,webpack" />
+    <img src="assets/idS3ps-oHn_1753174394255.png" width=48 />
+    <img src="assets/framer-motion.svg" width=45 />
+    <img src="assets/gsap-greensock.svg" width=45 />
 </p>
 
 
