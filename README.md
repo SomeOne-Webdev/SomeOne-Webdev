@@ -38,6 +38,7 @@ I turned fear into passion. And now I turn ideas into experiences.
 ⬛ A proud lover of minimalism — in code and design.  
 ⬜ Passionate about smooth micro-interactions and subtle UI animations.  
 ⬛ I believe open-source is one of the best ways to learn and connect with amazing developers.
+⬜ Always exploring ways to craft cleaner, faster, and more intuitive user experiences.
 
 ---
 
