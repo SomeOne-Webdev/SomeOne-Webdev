@@ -53,6 +53,8 @@ I turned fear into passion. And now I turn ideas into experiences.
     <img src="assets/gsap-greensock.svg" width=45 />
 </p>
 
+---
+
 <br/>
 
 <h3>GitHub Stats:</h3>
