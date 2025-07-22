@@ -55,8 +55,6 @@ I turned fear into passion. And now I turn ideas into experiences.
 
 ---
 
-<br/>
-
 <h3>GitHub Stats:</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=SomeOne-Webdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
